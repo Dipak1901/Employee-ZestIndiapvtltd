@@ -1,2 +1,2 @@
 # Employee-ZestIndiapvtltd
-this is project Datals
+this is project Details
